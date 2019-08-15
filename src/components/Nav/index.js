@@ -9,7 +9,7 @@ const Nav = () => {
                     <a href="#">Clicky Game</a>
                 </li>
                 <li>Click an image to begin!</li>
-                <li></li>
+                <li>Score: <span></span> | Top Score: <span></span></li>
             </ul>
         </nav>
     );

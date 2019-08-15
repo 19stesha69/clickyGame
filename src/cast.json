@@ -2,16 +2,20 @@
     {
         "id": 1,
         "name": "Alice",
-        "image": "./assets/images/alice.png"
+        "image": "../public/assets/images/alice.png"
     },
     {
         "id": 2,
         "name": "Hatter",
-        "image": "./assets/images/hatter.jpg"
+        "image": "../public/assets/images/hatter.jpg"
     },
     {
         "id": 3,
         "name": "March Hare",
-        "image": "./assets/images/hare.jpg"
+        "image": "../public/assets/images/hare.jpg"
     },
+    {
+        "id": 4,
+        "name": "../public/assets/images/caterpillar.jpg"
+    }
 ]
