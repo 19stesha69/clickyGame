@@ -3,7 +3,7 @@ import "./style.css";
 
 const Nav = () => {
     return (
-        <nav class="navbar">
+        <nav className="navbar">
             <ul>
                 <li>
                     <a href="#">Clicky Game</a>
